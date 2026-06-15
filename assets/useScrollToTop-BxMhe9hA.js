@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-Bh1tDfsg.js";import{o as t}from"./vendor-icons-DxNvEFqe.js";import{l as n}from"./index-BM_m_1ye.js";var r=e(t(),1);function i(e){(0,r.useEffect)(()=>{e?.skipIfHashMatches?.test(window.location.hash)||n(0,`auto`)},[])}export{i as t};

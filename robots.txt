@@ -1,0 +1,7 @@
+# https://sunipabera.com/robots.txt
+# Update Sitemap URL when deploying to your production domain.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://sunipabera.com/sitemap.xml
